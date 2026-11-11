@@ -1,0 +1,620 @@
+{
+  "1": {
+    "num_var": {
+      "grade": "1",
+      "component_key": "num_var",
+      "component_title": "Pensamiento Numérico - Variacional",
+      "filename": "Plan de Mejoramiento - Matemáticas 1°.pdf",
+      "pages": 8,
+      "standard": "Prop. 3: Las niñas y los niños disfrutan aprender; exploran y se",
+      "dbas_articulados": [
+        "DBA-0-Prop.3-16: Determina la cantidad de objetos que conforman una colección,",
+        "DBA-0-Prop.3-15: Compara, ordena, clasifica objetos e identifica patrones de",
+        "DBA-0-Prop.3-16-EV-1: Determina cuántos objetos conforman una colección a",
+        "DBA-0-Prop.3-16-EV-2: Compara colecciones de objetos y determina: ¿cuántos"
+      ],
+      "actividades": [
+        "¡El Safari de los Números!",
+        "¡La Tienda de Juguetes!"
+      ]
+    },
+    "geom_met": {
+      "grade": "1",
+      "component_key": "geom_met",
+      "component_title": "Pensamiento Espacial - Métrico",
+      "filename": "Plan de Mejoramiento - Matemáticas 1°.pdf",
+      "pages": 5,
+      "standard": "Prop. 3: Las niñas y los niños disfrutan aprender; exploran y se relacionan con el mundo para",
+      "dbas_articulados": [],
+      "actividades": [
+        "El Reino de las Figuras",
+        "Midiendo Pasos de Gigante",
+        "El Reino de las Figuras Nivel: Inferencial",
+        "Midiendo Pasos de Gigante Nivel: Argumentativo"
+      ]
+    },
+    "aleatorio": {
+      "grade": "1",
+      "component_key": "aleatorio",
+      "component_title": "Pensamiento Aleatorio (Estadística)",
+      "filename": "Plan de Mejoramiento - Aleatorio - Grupo Edúcate Colombia.pdf",
+      "pages": 6,
+      "standard": "Desarrollo de competencias y resolución de problemas matemáticos.",
+      "dbas_articulados": [
+        "DBA-0-Prop.3-16: Determina la cantidad de objetos que",
+        "DBA-0-Prop.3-15: Compara, ordena, clasifica objetos e identifica",
+        "DBA-0-Prop.3-16-EV-2: Compara colecciones de objetos y determina: ¿cuántos hay?,",
+        "DBA-0-Prop.3-15-EV-3: Clasifica colecciones de objetos de acuerdo a sus atributos"
+      ],
+      "actividades": []
+    }
+  },
+  "2": {
+    "num_var": {
+      "grade": "2",
+      "component_key": "num_var",
+      "component_title": "Pensamiento Numérico - Variacional",
+      "filename": "Plan de Mejoramiento - Matemáticas 2°.pdf",
+      "pages": 6,
+      "standard": "Uso representaciones principalmente concretas y pictóricas para explicar el valor de",
+      "dbas_articulados": [
+        "DBA 1: Identifica los usos de los números (como código, cardinal, medida,",
+        "DBA 2: Utiliza diferentes estrategias para contar, realizar operaciones (suma y",
+        "DBA 3: Utiliza las características posicionales del Sistema de Numeración"
+      ],
+      "actividades": [
+        "Misión",
+        "Constructores de",
+        "Misión Supermercado",
+        "Constructores de Decenas"
+      ]
+    },
+    "geom_met": {
+      "grade": "2",
+      "component_key": "geom_met",
+      "component_title": "Pensamiento Espacial - Métrico",
+      "filename": "Plan de Mejoramiento - Matemáticas 2° (Geométrico).pdf",
+      "pages": 7,
+      "standard": "Diferencio atributos y propiedades de objetos tridimensionales.",
+      "dbas_articulados": [
+        "DBA 4: Reconoce y compara atributos que pueden ser medidos en objetos y",
+        "DBA 5: Realiza mediciones de longitud, capacidad, peso, masa, etc",
+        "DBA 6: Compara objetos del entorno, estableciendo semejanzas y diferencias",
+        "DBA 7: Describe y representa trayectorias y posiciones para orientar a otros o a"
+      ],
+      "actividades": [
+        "Detectives de",
+        "El Mapa del",
+        "Detectives de Formas 3D",
+        "El Mapa del Tesoro y las"
+      ]
+    },
+    "aleatorio": {
+      "grade": "2",
+      "component_key": "aleatorio",
+      "component_title": "Pensamiento Aleatorio (Estadística)",
+      "filename": "Plan de Mejoramiento - Matemáticas 2° (Aleatorio).pdf",
+      "pages": 6,
+      "standard": "Clasifico y organizo datos de acuerdo con cualidades y atributos y los presento en",
+      "dbas_articulados": [
+        "DBA 10: Clasifica y organiza datos, los representa usando tablas de conteo y"
+      ],
+      "actividades": [
+        "Investigadores de",
+        "Dibujando",
+        "Investigadores de Mascotas",
+        "Dibujando con Datos"
+      ]
+    }
+  },
+  "3": {
+    "num_var": {
+      "grade": "3",
+      "component_key": "num_var",
+      "component_title": "Pensamiento Numérico - Variacional",
+      "filename": "Plan de Mejoramiento - Matemáticas 3° (Numérico Variacional).pdf",
+      "pages": 7,
+      "standard": "Interpreta, propone y resuelve problemas aditivos y problemas multiplicativos",
+      "dbas_articulados": [
+        "DBA 1: Interpreta, propone y resuelve problemas aditivos y multiplicativos",
+        "DBA 2: Utiliza diferentes estrategias para calcular o estimar el resultado de una",
+        "DBA 3: Utiliza el Sistema de Numeración Decimal para comparar, ordenar y"
+      ],
+      "actividades": [
+        "Misión",
+        "La Fábrica",
+        "Misión Cajero Experto",
+        "La Fábrica Multiplicadora"
+      ]
+    },
+    "geom_met": {
+      "grade": "3",
+      "component_key": "geom_met",
+      "component_title": "Pensamiento Espacial - Métrico",
+      "filename": "Plan de Mejoramiento - Matemáticas 3° (Geométrico - Métrico).pdf",
+      "pages": 6,
+      "standard": "Reconozco nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad",
+      "dbas_articulados": [
+        "DBA 6: Clasifica, describe y representa objetos del entorno a partir de sus",
+        "DBA 7: Describe desplazamientos y referencia la posición de un objeto mediante",
+        "DBA 5: Utiliza patrones, unidades e instrumentos convencionales y no",
+        "DBA 4: Compara y explica características que se pueden medir en la resolución"
+      ],
+      "actividades": [
+        "Arquitectos",
+        "Olimpiadas",
+        "Arquitectos de Ciudad",
+        "Olimpiadas de las Medidas"
+      ]
+    },
+    "aleatorio": {
+      "grade": "3",
+      "component_key": "aleatorio",
+      "component_title": "Pensamiento Aleatorio (Estadística)",
+      "filename": "Plan de Mejoramiento - Matemáticas 3° (Aleatorio).pdf",
+      "pages": 7,
+      "standard": "Interpreto cualitativamente datos referidos a situaciones del entorno escolar.",
+      "dbas_articulados": [
+        "DBA 10: Clasifica y organiza datos, los representa usando tablas de conteo,",
+        "DBA 11: Explica, a partir de la experiencia, la posibilidad de ocurrencia o no de"
+      ],
+      "actividades": [
+        "El Gran",
+        "La Ruleta de",
+        "El Gran Censo de Juguetes",
+        "La Ruleta de la Suerte"
+      ]
+    }
+  },
+  "4": {
+    "num_var": {
+      "grade": "4",
+      "component_key": "num_var",
+      "component_title": "Pensamiento Numérico - Variacional",
+      "filename": "Plan de Mejoramiento - Matemáticas 4°.pdf",
+      "pages": 7,
+      "standard": "Uso diversas estrategias de cálculo (especialmente cálculo mental) y de estimación para",
+      "dbas_articulados": [
+        "DBA-MAT-3-1: Interpreta, propone y resuelve problemas aditivos y multiplicativos que",
+        "DBA-MAT-3-3: Utiliza fracciones comunes para describir y comparar cantidades y mediciones"
+      ],
+      "actividades": [
+        "¡El Gran Bazar de las",
+        "La Pizzería",
+        "¡El Gran Bazar de las Operaciones!",
+        "La Pizzería Fraccionada"
+      ]
+    },
+    "geom_met": {
+      "grade": "4",
+      "component_key": "geom_met",
+      "component_title": "Pensamiento Espacial - Métrico",
+      "filename": "Plan de Mejoramiento - Matemáticas 4° (Geométrico-Métrico).pdf",
+      "pages": 6,
+      "standard": "Realizo construcciones y diseños utilizando cuerpos y figuras geométricas",
+      "dbas_articulados": [
+        "DBA-MAT-3-6: Clasifica, describe y representa formas bidimensionales y tridimensionales del",
+        "DBA-MAT-3-5: Compara, mide y estima longitudes, áreas, capacidades, volúmenes, pesos y",
+        "DBA-MAT-3-7: Describe y representa transformaciones geométricas y cambios de posición en"
+      ],
+      "actividades": [
+        "Arquitectos de la",
+        "El Mapa del Tesoro",
+        "Arquitectos de la Ciudad Cuadrada",
+        "El Mapa del Tesoro Geométrico"
+      ]
+    },
+    "aleatorio": {
+      "grade": "4",
+      "component_key": "aleatorio",
+      "component_title": "Pensamiento Aleatorio (Estadística)",
+      "filename": "Plan de Mejoramiento - Matemáticas 4° (Aleatorio).pdf",
+      "pages": 6,
+      "standard": "Identifico regularidades y tendencias en un conjunto de datos.",
+      "dbas_articulados": [
+        "DBA-MAT-3-10: Identifica regularidades y tendencias en un conjunto de datos, y utiliza tablas y",
+        "DBA-MAT-3-11: Predice, a partir de experiencias y simulaciones, la posibilidad de ocurrencia de"
+      ],
+      "actividades": [
+        "El Investigador de",
+        "La Caja de las",
+        "El Investigador de Datos Escolares",
+        "La Caja de las Sorpresas Probables"
+      ]
+    }
+  },
+  "5": {
+    "num_var": {
+      "grade": "5",
+      "component_key": "num_var",
+      "component_title": "Pensamiento Numérico - Variacional",
+      "filename": "Plan de Mejoramiento - Matemáticas 5° (Numérico Variacional).pdf",
+      "pages": 6,
+      "standard": "Interpreto las fracciones en diferentes contextos: situaciones de medición, relaciones",
+      "dbas_articulados": [
+        "DBA-MAT-4-1: Interpreta fracciones en diferentes contextos y establece relaciones entre",
+        "DBA-MAT-4-9: Reconoce y utiliza expresiones equivalentes con números racionales, en"
+      ],
+      "actividades": [
+        "El Supermercado de",
+        "El Laboratorio de",
+        "El Supermercado de Decimales",
+        "El Laboratorio de Equivalencias"
+      ]
+    },
+    "geom_met": {
+      "grade": "5",
+      "component_key": "geom_met",
+      "component_title": "Pensamiento Espacial - Métrico",
+      "filename": "Plan de Mejoramiento - Matemáticas 5° (Espacial Métrico).pdf",
+      "pages": 6,
+      "standard": "Desarrollo habilidades para relacionar dirección, distancia y posición en el espacio.",
+      "dbas_articulados": [
+        "DBA-MAT-4-7: Describe y representa trayectorias y transformaciones geométricas",
+        "DBA-MAT-4-5: Realiza mediciones, cálculos y estimaciones de magnitudes como longitud, área,"
+      ],
+      "actividades": [
+        "El Escultor de",
+        "Empacadores",
+        "El Escultor de Simetrías",
+        "Empacadores Expertos"
+      ]
+    },
+    "aleatorio": {
+      "grade": "5",
+      "component_key": "aleatorio",
+      "component_title": "Pensamiento Aleatorio (Estadística)",
+      "filename": "Plan de Mejoramiento - Matemáticas 5° (Aleatorio).pdf",
+      "pages": 6,
+      "standard": "Represento datos usando tablas y gráficas (pictogramas, gráficas de barras, diagramas",
+      "dbas_articulados": [
+        "DBA-MAT-4-10: Recolecta, organiza y representa datos en tablas y diferentes tipos de",
+        "DBA-MAT-4-11: Explica la posibilidad de ocurrencia o no de eventos cotidianos y utiliza esa"
+      ],
+      "actividades": [
+        "La Olimpiada de",
+        "La Ruleta de la",
+        "La Olimpiada de Mascotas",
+        "La Ruleta de la Suerte"
+      ]
+    }
+  },
+  "6": {
+    "num_var": {
+      "grade": "6",
+      "component_key": "num_var",
+      "component_title": "Pensamiento Numérico - Variacional",
+      "filename": "Plan de Mejoramiento - Matemáticas 6° (Numérico Variacional).pdf",
+      "pages": 6,
+      "standard": "Interpreto y utilizo los números naturales y las fracciones en su representación",
+      "dbas_articulados": [
+        "DBA-MAT-5-2: Describe y desarrolla estrategias, propiedades de las operaciones básicas y sus",
+        "DBA-MAT-5-3: Compara y ordena números fraccionarios a través de diversas"
+      ],
+      "actividades": [
+        "El Chef de la Recta",
+        "El Código de los",
+        "El Chef de la Recta Numérica",
+        "El Código de los Factores Secretos"
+      ]
+    },
+    "geom_met": {
+      "grade": "6",
+      "component_key": "geom_met",
+      "component_title": "Pensamiento Espacial - Métrico",
+      "filename": "Plan de Mejoramiento - Matemáticas 6° (Espacial Métrico).pdf",
+      "pages": 7,
+      "standard": "Utilizo sistemas de coordenadas para especificar localizaciones.",
+      "dbas_articulados": [
+        "DBA-MAT-5-7: Resuelve y propone situaciones en las que es necesario describir y localizar la",
+        "DBA-MAT-5-5: Explica las relaciones entre el perímetro y el área de diferentes figuras"
+      ],
+      "actividades": [
+        "La Búsqueda del",
+        "El Arquitecto de",
+        "La Búsqueda del Tesoro Cartesiano",
+        "El Arquitecto de Jardines"
+      ]
+    },
+    "aleatorio": {
+      "grade": "6",
+      "component_key": "aleatorio",
+      "component_title": "Pensamiento Aleatorio (Estadística)",
+      "filename": "Plan de Mejoramiento - Matemáticas 6° (Aleatorio).pdf",
+      "pages": 6,
+      "standard": "Uso e interpreto la media o promedio y la mediana y comparo lo que indican.",
+      "dbas_articulados": [
+        "DBA-MAT-5-11: Utiliza la media y la mediana para resolver problemas en los que se",
+        "DBA-MAT-5-12: Predice la posibilidad de ocurrencia de un evento simple a partir de la"
+      ],
+      "actividades": [
+        "El Analista de Notas Actividad 2: La Feria de las",
+        "El Analista de Notas",
+        "La Feria de las Probabilidades"
+      ]
+    }
+  },
+  "7": {
+    "num_var": {
+      "grade": "7",
+      "component_key": "num_var",
+      "component_title": "Pensamiento Numérico - Variacional",
+      "filename": "Plan de Mejoramiento - Matemáticas 7° (Numérico Variacional).pdf",
+      "pages": 7,
+      "standard": "Resuelvo y formulo problemas en contextos de medidas relativas y de variaciones.",
+      "dbas_articulados": [
+        "DBA 1: Interpreta los números enteros y racionales en sus representaciones de",
+        "DBA 9: Utiliza las propiedades de los números racionales y las operaciones"
+      ],
+      "actividades": [
+        "Aventura",
+        "El Código de",
+        "Aventura Bajo Cero",
+        "El Código de la Ecuación"
+      ]
+    },
+    "geom_met": {
+      "grade": "7",
+      "component_key": "geom_met",
+      "component_title": "Pensamiento Espacial - Métrico",
+      "filename": "Plan de Mejoramiento - Matemáticas 7° (Espacial Métrico).pdf",
+      "pages": 7,
+      "standard": "Represento objetos tridimensionales desde diferentes posiciones y vistas.",
+      "dbas_articulados": [
+        "DBA 4: Utiliza y explica diferentes estrategias (desarrollo de la forma o plantillas)",
+        "DBA 5: Estima y calcula áreas y volúmenes de figuras y cuerpos geométricos en",
+        "DBA 7: Utiliza el plano cartesiano como sistema de referencia para localizar y"
+      ],
+      "actividades": [
+        "Maestros del",
+        "Detectives",
+        "Maestros del Empaque",
+        "Detectives del Plano"
+      ]
+    },
+    "aleatorio": {
+      "grade": "7",
+      "component_key": "aleatorio",
+      "component_title": "Pensamiento Aleatorio (Estadística)",
+      "filename": "Plan de Mejoramiento - Matemáticas 7° (Aleatorio).pdf",
+      "pages": 7,
+      "standard": "Comparo e interpreto datos provenientes de diversas fuentes.",
+      "dbas_articulados": [
+        "DBA 11: Compara conjuntos de datos utilizando medidas de tendencia central",
+        "DBA 12: Predice y explica la probabilidad de ocurrencia de eventos simples a"
+      ],
+      "actividades": [
+        "El Analista de",
+        "El Analista de Datos",
+        "El Laboratorio de la Suerte"
+      ]
+    }
+  },
+  "8": {
+    "num_var": {
+      "grade": "8",
+      "component_key": "num_var",
+      "component_title": "Pensamiento Numérico - Variacional",
+      "filename": "Plan de Mejoramiento - Matemáticas 8° (Numérico Variacional).pdf",
+      "pages": 6,
+      "standard": "Utilizo números racionales (positivos y negativos) para resolver problemas.",
+      "dbas_articulados": [
+        "DBA-MAT-7-1: Interpreta y utiliza los números racionales en sus diferentes representaciones",
+        "DBA-MAT-7-9: Modela situaciones de variación usando expresiones numéricas, algebraicas y"
+      ],
+      "actividades": [
+        "El Tesoro de los",
+        "El Misterio de la",
+        "El Tesoro de los Números Enteros",
+        "El Misterio de la Ecuación Perdida"
+      ]
+    },
+    "geom_met": {
+      "grade": "8",
+      "component_key": "geom_met",
+      "component_title": "Pensamiento Espacial - Métrico",
+      "filename": "Plan de Mejoramiento - Matemáticas 8° (Espacial Métrico).pdf",
+      "pages": 6,
+      "standard": "Calculo áreas y volúmenes de figuras y cuerpos geométricos.",
+      "dbas_articulados": [
+        "DBA-MAT-7-5: Calcula áreas y volúmenes de figuras y cuerpos geométricos utilizando",
+        "DBA-MAT-7-7: Utiliza el plano cartesiano para ubicar puntos y describir trayectorias y"
+      ],
+      "actividades": [
+        "El Diseñador de",
+        "Misión en el Plano",
+        "El Diseñador de Empaques",
+        "Misión en el Plano Cartesiano"
+      ]
+    },
+    "aleatorio": {
+      "grade": "8",
+      "component_key": "aleatorio",
+      "component_title": "Pensamiento Aleatorio (Estadística)",
+      "filename": "Plan de Mejoramiento - Matemáticas 8° (Aleatorio).pdf",
+      "pages": 6,
+      "standard": "Comparo e interpreto datos provenientes de diversas fuentes.",
+      "dbas_articulados": [
+        "DBA-MAT-7-11: Compara conjuntos de datos utilizando medidas de tendencia central y",
+        "DBA-MAT-7-12: Predice y explica la probabilidad de ocurrencia de eventos simples usando"
+      ],
+      "actividades": [
+        "El Influencer de los",
+        "El Casino",
+        "El Influencer de los Datos",
+        "El Casino Matemático"
+      ]
+    }
+  },
+  "9": {
+    "num_var": {
+      "grade": "9",
+      "component_key": "num_var",
+      "component_title": "Pensamiento Numérico - Variacional",
+      "filename": "Plan de Mejoramiento - Matemáticas 9° (Numérico Variacional).pdf",
+      "pages": 7,
+      "standard": "Resuelvo y formulo problemas utilizando propiedades básicas de la teoría de",
+      "dbas_articulados": [
+        "DBA 8: Analiza y modela situaciones de covariación entre variables mediante",
+        "DBA 9: Modela situaciones de variación y cambio usando expresiones",
+        "DBA 1: Interpreta y utiliza los números racionales y reales en sus diferentes"
+      ],
+      "actividades": [
+        "Agentes del",
+        "El Simulador",
+        "Agentes del Álgebra",
+        "El Simulador de Variación"
+      ]
+    },
+    "geom_met": {
+      "grade": "9",
+      "component_key": "geom_met",
+      "component_title": "Pensamiento Espacial - Métrico",
+      "filename": "Plan de Mejoramiento - Matemáticas 9° (Espacial Métrico).pdf",
+      "pages": 7,
+      "standard": "Represento objetos tridimensionales desde diferentes posiciones y vistas.",
+      "dbas_articulados": [
+        "DBA 7: Utiliza el plano cartesiano para ubicar puntos y describir trayectorias y",
+        "DBA 5: Calcula áreas y volúmenes de figuras y cuerpos geométricos utilizando",
+        "DBA 4: Utiliza estrategias y herramientas para construir figuras planas y cuerpos"
+      ],
+      "actividades": [
+        "Geometría en",
+        "Arquitectos",
+        "Geometría en Movimiento",
+        "Arquitectos del Espacio"
+      ]
+    },
+    "aleatorio": {
+      "grade": "9",
+      "component_key": "aleatorio",
+      "component_title": "Pensamiento Aleatorio (Estadística)",
+      "filename": "Plan de Mejoramiento - Matemáticas 9° (Aleatorio).pdf",
+      "pages": 7,
+      "standard": "Comparo e interpreto datos provenientes de diversas fuentes.",
+      "dbas_articulados": [
+        "DBA 11: Compara y analiza conjuntos de datos utilizando medidas de tendencia",
+        "DBA 12: Predice y explica la probabilidad de ocurrencia de eventos simples y"
+      ],
+      "actividades": [
+        "El Duelo de",
+        "Casino",
+        "El Duelo de Datos",
+        "Casino Matemático"
+      ]
+    }
+  },
+  "10": {
+    "num_var": {
+      "grade": "10",
+      "component_key": "num_var",
+      "component_title": "Pensamiento Numérico - Variacional",
+      "filename": "Plan de Mejoramiento - Matemáticas 10° (Numérico Variacional).pdf",
+      "pages": 7,
+      "standard": "Utilizo números reales en diferentes representaciones.",
+      "dbas_articulados": [
+        "DBA-MAT-9-1: Interpreta y utiliza números racionales y reales para resolver problemas de",
+        "DBA-MAT-9-8: Analiza, modela y comunica situaciones de covariación entre variables usando"
+      ],
+      "actividades": [
+        "El Universo de los",
+        "Modelando el",
+        "El Universo de los Números Reales",
+        "Modelando el Cambio"
+      ]
+    },
+    "geom_met": {
+      "grade": "10",
+      "component_key": "geom_met",
+      "component_title": "Pensamiento Espacial - Métrico",
+      "filename": "Plan de Mejoramiento - Matemáticas 10° (Espacial Métrico).pdf",
+      "pages": 6,
+      "standard": "Identifico y describo figuras generadas por cortes.",
+      "dbas_articulados": [
+        "DBA-MAT-9-6: Analiza y utiliza propiedades de figuras para su clasificación y construcción",
+        "DBA-MAT-9-5: Calcula áreas y volúmenes de figuras y cuerpos geométricos utilizando"
+      ],
+      "actividades": [
+        "El Teorema de las",
+        "Arquitectura",
+        "El Teorema de las Sombras",
+        "Arquitectura Volumétrica"
+      ]
+    },
+    "aleatorio": {
+      "grade": "10",
+      "component_key": "aleatorio",
+      "component_title": "Pensamiento Aleatorio (Estadística)",
+      "filename": "Plan de Mejoramiento - Matemáticas 10° (Aleatorio).pdf",
+      "pages": 7,
+      "standard": "Comparo e interpreto datos provenientes de diversas fuentes.",
+      "dbas_articulados": [
+        "DBA-MAT-9-11: Compara y analiza conjuntos de datos utilizando medidas de tendencia central y",
+        "DBA-MAT-9-12: Predice y explica la probabilidad de ocurrencia de eventos simples y"
+      ],
+      "actividades": [
+        "El Analista de",
+        "El Laboratorio del",
+        "El Analista de Talentos Deportivos",
+        "El Laboratorio del Azar"
+      ]
+    }
+  },
+  "11": {
+    "num_var": {
+      "grade": "11",
+      "component_key": "num_var",
+      "component_title": "Pensamiento Numérico - Variacional",
+      "filename": "Plan de Mejoramiento - Matemáticas 11° (Numérico Variacional).pdf",
+      "pages": 7,
+      "standard": "Analizo y modelo situaciones de covariación entre variables usando funciones y",
+      "dbas_articulados": [
+        "DBA 1: Interpreta y utiliza números racionales, irracionales y reales en diferentes",
+        "DBA 8: Analiza y modela situaciones de covariación entre variables usando"
+      ],
+      "actividades": [
+        "El Universo",
+        "Modelando el",
+        "El Universo de los Reales",
+        "Modelando el Cambio"
+      ]
+    },
+    "geom_met": {
+      "grade": "11",
+      "component_key": "geom_met",
+      "component_title": "Pensamiento Espacial - Métrico",
+      "filename": "Plan de Mejoramiento - Matemáticas 11° (Espacial Métrico).pdf",
+      "pages": 6,
+      "standard": "Analizo y utilizo propiedades de figuras y cuerpos geométricos.",
+      "dbas_articulados": [
+        "DBA 5: Calcula áreas y volúmenes de figuras y cuerpos geométricos utilizando",
+        "DBA 6: Analiza y utiliza propiedades de figuras bidimensionales y"
+      ],
+      "actividades": [
+        "Ingenieros de",
+        "Navegantes",
+        "Ingenieros de Estructuras",
+        "Navegantes Trigonométricos"
+      ]
+    },
+    "aleatorio": {
+      "grade": "11",
+      "component_key": "aleatorio",
+      "component_title": "Pensamiento Aleatorio (Estadística)",
+      "filename": "Plan de Mejoramiento - Matemáticas 11° (Aleatorio).pdf",
+      "pages": 7,
+      "standard": "Interpreto, produzco y comparo representaciones gráficas adecuadas para presentar",
+      "dbas_articulados": [
+        "DBA 10: Analiza, contrasta y comunica información estadística proveniente de",
+        "DBA 11: Compara y analiza conjuntos de datos utilizando medidas de tendencia",
+        "DBA 12: Predice la probabilidad de ocurrencia de eventos simples y compuestos"
+      ],
+      "actividades": [
+        "El Analista de",
+        "El Estratega",
+        "El Analista de Tendencias",
+        "El Estratega de Riesgos"
+      ]
+    }
+  }
+}

@@ -1,0 +1,785 @@
+{
+  "1": [
+    {
+      "grade": "1",
+      "grade_label": "1° de Primaria",
+      "component_key": "num_var",
+      "component_name": "Pensamiento Numérico - Variacional",
+      "icon": "🔢",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 1°.pdf",
+      "file_id": "1G39l3KCO9FZcC0WYvdmja38r1iJYlsMt",
+      "drive_view_url": "https://drive.google.com/file/d/1G39l3KCO9FZcC0WYvdmja38r1iJYlsMt/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1G39l3KCO9FZcC0WYvdmja38r1iJYlsMt",
+      "pages": 8,
+      "standard": "Prop. 3: Las niñas y los niños disfrutan aprender; exploran y se",
+      "dbas_articulados": [
+        "DBA-0-Prop.3-16: Determina la cantidad de objetos que conforman una colección,",
+        "DBA-0-Prop.3-15: Compara, ordena, clasifica objetos e identifica patrones de",
+        "DBA-0-Prop.3-16-EV-1: Determina cuántos objetos conforman una colección a",
+        "DBA-0-Prop.3-16-EV-2: Compara colecciones de objetos y determina: ¿cuántos"
+      ],
+      "actividades": [
+        "¡El Safari de los Números!",
+        "¡La Tienda de Juguetes!"
+      ]
+    },
+    {
+      "grade": "1",
+      "grade_label": "1° de Primaria",
+      "component_key": "geom_met",
+      "component_name": "Pensamiento Espacial - Métrico",
+      "icon": "📐",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 1°.pdf",
+      "file_id": "1uc8jdmwYyoCbuC_m1M-jOW7eS4UXJtCl",
+      "drive_view_url": "https://drive.google.com/file/d/1uc8jdmwYyoCbuC_m1M-jOW7eS4UXJtCl/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1uc8jdmwYyoCbuC_m1M-jOW7eS4UXJtCl",
+      "pages": 5,
+      "standard": "Prop. 3: Las niñas y los niños disfrutan aprender; exploran y se relacionan con el mundo para",
+      "dbas_articulados": [],
+      "actividades": [
+        "El Reino de las Figuras",
+        "Midiendo Pasos de Gigante",
+        "El Reino de las Figuras Nivel: Inferencial",
+        "Midiendo Pasos de Gigante Nivel: Argumentativo"
+      ]
+    },
+    {
+      "grade": "1",
+      "grade_label": "1° de Primaria",
+      "component_key": "aleatorio",
+      "component_name": "Pensamiento Aleatorio y Sistemas de Datos",
+      "icon": "📊",
+      "pdf_title": "Plan de Mejoramiento - Aleatorio - Grupo Edúcate Colombia.pdf",
+      "file_id": "1uNfA_Ok6LQcBZ585oAuuukf3hGZaUgeG",
+      "drive_view_url": "https://drive.google.com/file/d/1uNfA_Ok6LQcBZ585oAuuukf3hGZaUgeG/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1uNfA_Ok6LQcBZ585oAuuukf3hGZaUgeG",
+      "pages": 6,
+      "standard": "Desarrollo de competencias y resolución de problemas matemáticos.",
+      "dbas_articulados": [
+        "DBA-0-Prop.3-16: Determina la cantidad de objetos que",
+        "DBA-0-Prop.3-15: Compara, ordena, clasifica objetos e identifica",
+        "DBA-0-Prop.3-16-EV-2: Compara colecciones de objetos y determina: ¿cuántos hay?,",
+        "DBA-0-Prop.3-15-EV-3: Clasifica colecciones de objetos de acuerdo a sus atributos"
+      ],
+      "actividades": []
+    }
+  ],
+  "2": [
+    {
+      "grade": "2",
+      "grade_label": "2° de Primaria",
+      "component_key": "num_var",
+      "component_name": "Pensamiento Numérico - Variacional",
+      "icon": "🔢",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 2°.pdf",
+      "file_id": "1-bqLNaPVaiWqOOGCIDmFuMc-V2bceLO5",
+      "drive_view_url": "https://drive.google.com/file/d/1-bqLNaPVaiWqOOGCIDmFuMc-V2bceLO5/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1-bqLNaPVaiWqOOGCIDmFuMc-V2bceLO5",
+      "pages": 6,
+      "standard": "Uso representaciones principalmente concretas y pictóricas para explicar el valor de",
+      "dbas_articulados": [
+        "DBA 1: Identifica los usos de los números (como código, cardinal, medida,",
+        "DBA 2: Utiliza diferentes estrategias para contar, realizar operaciones (suma y",
+        "DBA 3: Utiliza las características posicionales del Sistema de Numeración"
+      ],
+      "actividades": [
+        "Misión",
+        "Constructores de",
+        "Misión Supermercado",
+        "Constructores de Decenas"
+      ]
+    },
+    {
+      "grade": "2",
+      "grade_label": "2° de Primaria",
+      "component_key": "geom_met",
+      "component_name": "Pensamiento Espacial - Métrico",
+      "icon": "📐",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 2° (Geométrico).pdf",
+      "file_id": "11wSy_G1baS_BS-xRJgSemGpFN4xAUA8a",
+      "drive_view_url": "https://drive.google.com/file/d/11wSy_G1baS_BS-xRJgSemGpFN4xAUA8a/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=11wSy_G1baS_BS-xRJgSemGpFN4xAUA8a",
+      "pages": 7,
+      "standard": "Diferencio atributos y propiedades de objetos tridimensionales.",
+      "dbas_articulados": [
+        "DBA 4: Reconoce y compara atributos que pueden ser medidos en objetos y",
+        "DBA 5: Realiza mediciones de longitud, capacidad, peso, masa, etc",
+        "DBA 6: Compara objetos del entorno, estableciendo semejanzas y diferencias",
+        "DBA 7: Describe y representa trayectorias y posiciones para orientar a otros o a"
+      ],
+      "actividades": [
+        "Detectives de",
+        "El Mapa del",
+        "Detectives de Formas 3D",
+        "El Mapa del Tesoro y las"
+      ]
+    },
+    {
+      "grade": "2",
+      "grade_label": "2° de Primaria",
+      "component_key": "aleatorio",
+      "component_name": "Pensamiento Aleatorio y Sistemas de Datos",
+      "icon": "📊",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 2° (Aleatorio).pdf",
+      "file_id": "1JopIxd9r66Ev4ddWtNimAqyLgZk07FHX",
+      "drive_view_url": "https://drive.google.com/file/d/1JopIxd9r66Ev4ddWtNimAqyLgZk07FHX/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1JopIxd9r66Ev4ddWtNimAqyLgZk07FHX",
+      "pages": 6,
+      "standard": "Clasifico y organizo datos de acuerdo con cualidades y atributos y los presento en",
+      "dbas_articulados": [
+        "DBA 10: Clasifica y organiza datos, los representa usando tablas de conteo y"
+      ],
+      "actividades": [
+        "Investigadores de",
+        "Dibujando",
+        "Investigadores de Mascotas",
+        "Dibujando con Datos"
+      ]
+    }
+  ],
+  "3": [
+    {
+      "grade": "3",
+      "grade_label": "3° de Primaria",
+      "component_key": "num_var",
+      "component_name": "Pensamiento Numérico - Variacional",
+      "icon": "🔢",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 3° (Numérico Variacional).pdf",
+      "file_id": "1Nyb3VaSQqET1knaSj9FbLjiLj2RaAU0m",
+      "drive_view_url": "https://drive.google.com/file/d/1Nyb3VaSQqET1knaSj9FbLjiLj2RaAU0m/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1Nyb3VaSQqET1knaSj9FbLjiLj2RaAU0m",
+      "pages": 7,
+      "standard": "Interpreta, propone y resuelve problemas aditivos y problemas multiplicativos",
+      "dbas_articulados": [
+        "DBA 1: Interpreta, propone y resuelve problemas aditivos y multiplicativos",
+        "DBA 2: Utiliza diferentes estrategias para calcular o estimar el resultado de una",
+        "DBA 3: Utiliza el Sistema de Numeración Decimal para comparar, ordenar y"
+      ],
+      "actividades": [
+        "Misión",
+        "La Fábrica",
+        "Misión Cajero Experto",
+        "La Fábrica Multiplicadora"
+      ]
+    },
+    {
+      "grade": "3",
+      "grade_label": "3° de Primaria",
+      "component_key": "geom_met",
+      "component_name": "Pensamiento Espacial - Métrico",
+      "icon": "📐",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 3° (Geométrico - Métrico).pdf",
+      "file_id": "1DsZV8S-NuUfjQmZ93BqBadUPD-8dqI02",
+      "drive_view_url": "https://drive.google.com/file/d/1DsZV8S-NuUfjQmZ93BqBadUPD-8dqI02/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1DsZV8S-NuUfjQmZ93BqBadUPD-8dqI02",
+      "pages": 6,
+      "standard": "Reconozco nociones de horizontalidad, verticalidad, paralelismo y perpendicularidad",
+      "dbas_articulados": [
+        "DBA 6: Clasifica, describe y representa objetos del entorno a partir de sus",
+        "DBA 7: Describe desplazamientos y referencia la posición de un objeto mediante",
+        "DBA 5: Utiliza patrones, unidades e instrumentos convencionales y no",
+        "DBA 4: Compara y explica características que se pueden medir en la resolución"
+      ],
+      "actividades": [
+        "Arquitectos",
+        "Olimpiadas",
+        "Arquitectos de Ciudad",
+        "Olimpiadas de las Medidas"
+      ]
+    },
+    {
+      "grade": "3",
+      "grade_label": "3° de Primaria",
+      "component_key": "aleatorio",
+      "component_name": "Pensamiento Aleatorio y Sistemas de Datos",
+      "icon": "📊",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 3° (Aleatorio).pdf",
+      "file_id": "1c3XsHHU8i0U3t3Oft2XpepOxek3INVOX",
+      "drive_view_url": "https://drive.google.com/file/d/1c3XsHHU8i0U3t3Oft2XpepOxek3INVOX/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1c3XsHHU8i0U3t3Oft2XpepOxek3INVOX",
+      "pages": 7,
+      "standard": "Interpreto cualitativamente datos referidos a situaciones del entorno escolar.",
+      "dbas_articulados": [
+        "DBA 10: Clasifica y organiza datos, los representa usando tablas de conteo,",
+        "DBA 11: Explica, a partir de la experiencia, la posibilidad de ocurrencia o no de"
+      ],
+      "actividades": [
+        "El Gran",
+        "La Ruleta de",
+        "El Gran Censo de Juguetes",
+        "La Ruleta de la Suerte"
+      ]
+    }
+  ],
+  "4": [
+    {
+      "grade": "4",
+      "grade_label": "4° de Primaria",
+      "component_key": "num_var",
+      "component_name": "Pensamiento Numérico - Variacional",
+      "icon": "🔢",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 4°.pdf",
+      "file_id": "1qeyCZGuCbn7P9sMAoxc18Lk8MH499bYw",
+      "drive_view_url": "https://drive.google.com/file/d/1qeyCZGuCbn7P9sMAoxc18Lk8MH499bYw/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1qeyCZGuCbn7P9sMAoxc18Lk8MH499bYw",
+      "pages": 7,
+      "standard": "Uso diversas estrategias de cálculo (especialmente cálculo mental) y de estimación para",
+      "dbas_articulados": [
+        "DBA-MAT-3-1: Interpreta, propone y resuelve problemas aditivos y multiplicativos que",
+        "DBA-MAT-3-3: Utiliza fracciones comunes para describir y comparar cantidades y mediciones"
+      ],
+      "actividades": [
+        "¡El Gran Bazar de las",
+        "La Pizzería",
+        "¡El Gran Bazar de las Operaciones!",
+        "La Pizzería Fraccionada"
+      ]
+    },
+    {
+      "grade": "4",
+      "grade_label": "4° de Primaria",
+      "component_key": "geom_met",
+      "component_name": "Pensamiento Espacial - Métrico",
+      "icon": "📐",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 4° (Geométrico-Métrico).pdf",
+      "file_id": "1sv_yjYU671oij7jFqzh1bSBykzQPflTL",
+      "drive_view_url": "https://drive.google.com/file/d/1sv_yjYU671oij7jFqzh1bSBykzQPflTL/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1sv_yjYU671oij7jFqzh1bSBykzQPflTL",
+      "pages": 6,
+      "standard": "Realizo construcciones y diseños utilizando cuerpos y figuras geométricas",
+      "dbas_articulados": [
+        "DBA-MAT-3-6: Clasifica, describe y representa formas bidimensionales y tridimensionales del",
+        "DBA-MAT-3-5: Compara, mide y estima longitudes, áreas, capacidades, volúmenes, pesos y",
+        "DBA-MAT-3-7: Describe y representa transformaciones geométricas y cambios de posición en"
+      ],
+      "actividades": [
+        "Arquitectos de la",
+        "El Mapa del Tesoro",
+        "Arquitectos de la Ciudad Cuadrada",
+        "El Mapa del Tesoro Geométrico"
+      ]
+    },
+    {
+      "grade": "4",
+      "grade_label": "4° de Primaria",
+      "component_key": "aleatorio",
+      "component_name": "Pensamiento Aleatorio y Sistemas de Datos",
+      "icon": "📊",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 4° (Aleatorio).pdf",
+      "file_id": "1bD4AEIXCRVhrpUCfggrBjc6-g0ipgXjo",
+      "drive_view_url": "https://drive.google.com/file/d/1bD4AEIXCRVhrpUCfggrBjc6-g0ipgXjo/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1bD4AEIXCRVhrpUCfggrBjc6-g0ipgXjo",
+      "pages": 6,
+      "standard": "Identifico regularidades y tendencias en un conjunto de datos.",
+      "dbas_articulados": [
+        "DBA-MAT-3-10: Identifica regularidades y tendencias en un conjunto de datos, y utiliza tablas y",
+        "DBA-MAT-3-11: Predice, a partir de experiencias y simulaciones, la posibilidad de ocurrencia de"
+      ],
+      "actividades": [
+        "El Investigador de",
+        "La Caja de las",
+        "El Investigador de Datos Escolares",
+        "La Caja de las Sorpresas Probables"
+      ]
+    }
+  ],
+  "5": [
+    {
+      "grade": "5",
+      "grade_label": "5° de Primaria",
+      "component_key": "num_var",
+      "component_name": "Pensamiento Numérico - Variacional",
+      "icon": "🔢",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 5° (Numérico Variacional).pdf",
+      "file_id": "1oC3tu-GF-1D8SyhoBxENp_uCy1NbRbjb",
+      "drive_view_url": "https://drive.google.com/file/d/1oC3tu-GF-1D8SyhoBxENp_uCy1NbRbjb/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1oC3tu-GF-1D8SyhoBxENp_uCy1NbRbjb",
+      "pages": 6,
+      "standard": "Interpreto las fracciones en diferentes contextos: situaciones de medición, relaciones",
+      "dbas_articulados": [
+        "DBA-MAT-4-1: Interpreta fracciones en diferentes contextos y establece relaciones entre",
+        "DBA-MAT-4-9: Reconoce y utiliza expresiones equivalentes con números racionales, en"
+      ],
+      "actividades": [
+        "El Supermercado de",
+        "El Laboratorio de",
+        "El Supermercado de Decimales",
+        "El Laboratorio de Equivalencias"
+      ]
+    },
+    {
+      "grade": "5",
+      "grade_label": "5° de Primaria",
+      "component_key": "geom_met",
+      "component_name": "Pensamiento Espacial - Métrico",
+      "icon": "📐",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 5° (Espacial Métrico).pdf",
+      "file_id": "1I0pm9jGxZc0Qltp9_EMH9aMGP8c1-xXz",
+      "drive_view_url": "https://drive.google.com/file/d/1I0pm9jGxZc0Qltp9_EMH9aMGP8c1-xXz/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1I0pm9jGxZc0Qltp9_EMH9aMGP8c1-xXz",
+      "pages": 6,
+      "standard": "Desarrollo habilidades para relacionar dirección, distancia y posición en el espacio.",
+      "dbas_articulados": [
+        "DBA-MAT-4-7: Describe y representa trayectorias y transformaciones geométricas",
+        "DBA-MAT-4-5: Realiza mediciones, cálculos y estimaciones de magnitudes como longitud, área,"
+      ],
+      "actividades": [
+        "El Escultor de",
+        "Empacadores",
+        "El Escultor de Simetrías",
+        "Empacadores Expertos"
+      ]
+    },
+    {
+      "grade": "5",
+      "grade_label": "5° de Primaria",
+      "component_key": "aleatorio",
+      "component_name": "Pensamiento Aleatorio y Sistemas de Datos",
+      "icon": "📊",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 5° (Aleatorio).pdf",
+      "file_id": "1-95VXr_3DfxQusqTKZMJ0WhoFqTTmC__",
+      "drive_view_url": "https://drive.google.com/file/d/1-95VXr_3DfxQusqTKZMJ0WhoFqTTmC__/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1-95VXr_3DfxQusqTKZMJ0WhoFqTTmC__",
+      "pages": 6,
+      "standard": "Represento datos usando tablas y gráficas (pictogramas, gráficas de barras, diagramas",
+      "dbas_articulados": [
+        "DBA-MAT-4-10: Recolecta, organiza y representa datos en tablas y diferentes tipos de",
+        "DBA-MAT-4-11: Explica la posibilidad de ocurrencia o no de eventos cotidianos y utiliza esa"
+      ],
+      "actividades": [
+        "La Olimpiada de",
+        "La Ruleta de la",
+        "La Olimpiada de Mascotas",
+        "La Ruleta de la Suerte"
+      ]
+    }
+  ],
+  "6": [
+    {
+      "grade": "6",
+      "grade_label": "6° de Secundaria",
+      "component_key": "num_var",
+      "component_name": "Pensamiento Numérico - Variacional",
+      "icon": "🔢",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 6° (Numérico Variacional).pdf",
+      "file_id": "1mFay8zRwnCtCZBmNN5Uxi1AgtZjNjGne",
+      "drive_view_url": "https://drive.google.com/file/d/1mFay8zRwnCtCZBmNN5Uxi1AgtZjNjGne/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1mFay8zRwnCtCZBmNN5Uxi1AgtZjNjGne",
+      "pages": 6,
+      "standard": "Interpreto y utilizo los números naturales y las fracciones en su representación",
+      "dbas_articulados": [
+        "DBA-MAT-5-2: Describe y desarrolla estrategias, propiedades de las operaciones básicas y sus",
+        "DBA-MAT-5-3: Compara y ordena números fraccionarios a través de diversas"
+      ],
+      "actividades": [
+        "El Chef de la Recta",
+        "El Código de los",
+        "El Chef de la Recta Numérica",
+        "El Código de los Factores Secretos"
+      ]
+    },
+    {
+      "grade": "6",
+      "grade_label": "6° de Secundaria",
+      "component_key": "geom_met",
+      "component_name": "Pensamiento Espacial - Métrico",
+      "icon": "📐",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 6° (Espacial Métrico).pdf",
+      "file_id": "1wCugvZ3JHrm5qRzFQc-SI929oXR7wTaj",
+      "drive_view_url": "https://drive.google.com/file/d/1wCugvZ3JHrm5qRzFQc-SI929oXR7wTaj/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1wCugvZ3JHrm5qRzFQc-SI929oXR7wTaj",
+      "pages": 7,
+      "standard": "Utilizo sistemas de coordenadas para especificar localizaciones.",
+      "dbas_articulados": [
+        "DBA-MAT-5-7: Resuelve y propone situaciones en las que es necesario describir y localizar la",
+        "DBA-MAT-5-5: Explica las relaciones entre el perímetro y el área de diferentes figuras"
+      ],
+      "actividades": [
+        "La Búsqueda del",
+        "El Arquitecto de",
+        "La Búsqueda del Tesoro Cartesiano",
+        "El Arquitecto de Jardines"
+      ]
+    },
+    {
+      "grade": "6",
+      "grade_label": "6° de Secundaria",
+      "component_key": "aleatorio",
+      "component_name": "Pensamiento Aleatorio y Sistemas de Datos",
+      "icon": "📊",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 6° (Aleatorio).pdf",
+      "file_id": "1TAP3dB8PMXOuuMGhr4CCdyfSQWt5q2_O",
+      "drive_view_url": "https://drive.google.com/file/d/1TAP3dB8PMXOuuMGhr4CCdyfSQWt5q2_O/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1TAP3dB8PMXOuuMGhr4CCdyfSQWt5q2_O",
+      "pages": 6,
+      "standard": "Uso e interpreto la media o promedio y la mediana y comparo lo que indican.",
+      "dbas_articulados": [
+        "DBA-MAT-5-11: Utiliza la media y la mediana para resolver problemas en los que se",
+        "DBA-MAT-5-12: Predice la posibilidad de ocurrencia de un evento simple a partir de la"
+      ],
+      "actividades": [
+        "El Analista de Notas Actividad 2: La Feria de las",
+        "El Analista de Notas",
+        "La Feria de las Probabilidades"
+      ]
+    }
+  ],
+  "7": [
+    {
+      "grade": "7",
+      "grade_label": "7° de Secundaria",
+      "component_key": "num_var",
+      "component_name": "Pensamiento Numérico - Variacional",
+      "icon": "🔢",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 7° (Numérico Variacional).pdf",
+      "file_id": "1A1mRYJ49nyJPf-TZRyQSwDT71p7Dxw4U",
+      "drive_view_url": "https://drive.google.com/file/d/1A1mRYJ49nyJPf-TZRyQSwDT71p7Dxw4U/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1A1mRYJ49nyJPf-TZRyQSwDT71p7Dxw4U",
+      "pages": 7,
+      "standard": "Resuelvo y formulo problemas en contextos de medidas relativas y de variaciones.",
+      "dbas_articulados": [
+        "DBA 1: Interpreta los números enteros y racionales en sus representaciones de",
+        "DBA 9: Utiliza las propiedades de los números racionales y las operaciones"
+      ],
+      "actividades": [
+        "Aventura",
+        "El Código de",
+        "Aventura Bajo Cero",
+        "El Código de la Ecuación"
+      ]
+    },
+    {
+      "grade": "7",
+      "grade_label": "7° de Secundaria",
+      "component_key": "geom_met",
+      "component_name": "Pensamiento Espacial - Métrico",
+      "icon": "📐",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 7° (Espacial Métrico).pdf",
+      "file_id": "1LABz3w54QLWfzhHNFjXIoTMkLRqf2OuY",
+      "drive_view_url": "https://drive.google.com/file/d/1LABz3w54QLWfzhHNFjXIoTMkLRqf2OuY/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1LABz3w54QLWfzhHNFjXIoTMkLRqf2OuY",
+      "pages": 7,
+      "standard": "Represento objetos tridimensionales desde diferentes posiciones y vistas.",
+      "dbas_articulados": [
+        "DBA 4: Utiliza y explica diferentes estrategias (desarrollo de la forma o plantillas)",
+        "DBA 5: Estima y calcula áreas y volúmenes de figuras y cuerpos geométricos en",
+        "DBA 7: Utiliza el plano cartesiano como sistema de referencia para localizar y"
+      ],
+      "actividades": [
+        "Maestros del",
+        "Detectives",
+        "Maestros del Empaque",
+        "Detectives del Plano"
+      ]
+    },
+    {
+      "grade": "7",
+      "grade_label": "7° de Secundaria",
+      "component_key": "aleatorio",
+      "component_name": "Pensamiento Aleatorio y Sistemas de Datos",
+      "icon": "📊",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 7° (Aleatorio).pdf",
+      "file_id": "1tjdfd8agARF2WdEhCcP-MCrXK8epVvrM",
+      "drive_view_url": "https://drive.google.com/file/d/1tjdfd8agARF2WdEhCcP-MCrXK8epVvrM/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1tjdfd8agARF2WdEhCcP-MCrXK8epVvrM",
+      "pages": 7,
+      "standard": "Comparo e interpreto datos provenientes de diversas fuentes.",
+      "dbas_articulados": [
+        "DBA 11: Compara conjuntos de datos utilizando medidas de tendencia central",
+        "DBA 12: Predice y explica la probabilidad de ocurrencia de eventos simples a"
+      ],
+      "actividades": [
+        "El Analista de",
+        "El Analista de Datos",
+        "El Laboratorio de la Suerte"
+      ]
+    }
+  ],
+  "8": [
+    {
+      "grade": "8",
+      "grade_label": "8° de Secundaria",
+      "component_key": "num_var",
+      "component_name": "Pensamiento Numérico - Variacional",
+      "icon": "🔢",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 8° (Numérico Variacional).pdf",
+      "file_id": "1znkUPv4zOICJjwtEQ3gdRrrNM7IYB9wi",
+      "drive_view_url": "https://drive.google.com/file/d/1znkUPv4zOICJjwtEQ3gdRrrNM7IYB9wi/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1znkUPv4zOICJjwtEQ3gdRrrNM7IYB9wi",
+      "pages": 6,
+      "standard": "Utilizo números racionales (positivos y negativos) para resolver problemas.",
+      "dbas_articulados": [
+        "DBA-MAT-7-1: Interpreta y utiliza los números racionales en sus diferentes representaciones",
+        "DBA-MAT-7-9: Modela situaciones de variación usando expresiones numéricas, algebraicas y"
+      ],
+      "actividades": [
+        "El Tesoro de los",
+        "El Misterio de la",
+        "El Tesoro de los Números Enteros",
+        "El Misterio de la Ecuación Perdida"
+      ]
+    },
+    {
+      "grade": "8",
+      "grade_label": "8° de Secundaria",
+      "component_key": "geom_met",
+      "component_name": "Pensamiento Espacial - Métrico",
+      "icon": "📐",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 8° (Espacial Métrico).pdf",
+      "file_id": "1-2UyB88feEORccEw7gBSDCAUrcoj4AsK",
+      "drive_view_url": "https://drive.google.com/file/d/1-2UyB88feEORccEw7gBSDCAUrcoj4AsK/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1-2UyB88feEORccEw7gBSDCAUrcoj4AsK",
+      "pages": 6,
+      "standard": "Calculo áreas y volúmenes de figuras y cuerpos geométricos.",
+      "dbas_articulados": [
+        "DBA-MAT-7-5: Calcula áreas y volúmenes de figuras y cuerpos geométricos utilizando",
+        "DBA-MAT-7-7: Utiliza el plano cartesiano para ubicar puntos y describir trayectorias y"
+      ],
+      "actividades": [
+        "El Diseñador de",
+        "Misión en el Plano",
+        "El Diseñador de Empaques",
+        "Misión en el Plano Cartesiano"
+      ]
+    },
+    {
+      "grade": "8",
+      "grade_label": "8° de Secundaria",
+      "component_key": "aleatorio",
+      "component_name": "Pensamiento Aleatorio y Sistemas de Datos",
+      "icon": "📊",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 8° (Aleatorio).pdf",
+      "file_id": "1WGBBmWw9lf8bUkhckCUusumYdzVANZsc",
+      "drive_view_url": "https://drive.google.com/file/d/1WGBBmWw9lf8bUkhckCUusumYdzVANZsc/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1WGBBmWw9lf8bUkhckCUusumYdzVANZsc",
+      "pages": 6,
+      "standard": "Comparo e interpreto datos provenientes de diversas fuentes.",
+      "dbas_articulados": [
+        "DBA-MAT-7-11: Compara conjuntos de datos utilizando medidas de tendencia central y",
+        "DBA-MAT-7-12: Predice y explica la probabilidad de ocurrencia de eventos simples usando"
+      ],
+      "actividades": [
+        "El Influencer de los",
+        "El Casino",
+        "El Influencer de los Datos",
+        "El Casino Matemático"
+      ]
+    }
+  ],
+  "9": [
+    {
+      "grade": "9",
+      "grade_label": "9° de Secundaria",
+      "component_key": "num_var",
+      "component_name": "Pensamiento Numérico - Variacional",
+      "icon": "🔢",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 9° (Numérico Variacional).pdf",
+      "file_id": "14KPF3b16lMTG1pbaCJZhkV2_7r1XOA-T",
+      "drive_view_url": "https://drive.google.com/file/d/14KPF3b16lMTG1pbaCJZhkV2_7r1XOA-T/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=14KPF3b16lMTG1pbaCJZhkV2_7r1XOA-T",
+      "pages": 7,
+      "standard": "Resuelvo y formulo problemas utilizando propiedades básicas de la teoría de",
+      "dbas_articulados": [
+        "DBA 8: Analiza y modela situaciones de covariación entre variables mediante",
+        "DBA 9: Modela situaciones de variación y cambio usando expresiones",
+        "DBA 1: Interpreta y utiliza los números racionales y reales en sus diferentes"
+      ],
+      "actividades": [
+        "Agentes del",
+        "El Simulador",
+        "Agentes del Álgebra",
+        "El Simulador de Variación"
+      ]
+    },
+    {
+      "grade": "9",
+      "grade_label": "9° de Secundaria",
+      "component_key": "geom_met",
+      "component_name": "Pensamiento Espacial - Métrico",
+      "icon": "📐",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 9° (Espacial Métrico).pdf",
+      "file_id": "17GJ8LicfSFRGSa9pjewZvqEQbdE4oECs",
+      "drive_view_url": "https://drive.google.com/file/d/17GJ8LicfSFRGSa9pjewZvqEQbdE4oECs/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=17GJ8LicfSFRGSa9pjewZvqEQbdE4oECs",
+      "pages": 7,
+      "standard": "Represento objetos tridimensionales desde diferentes posiciones y vistas.",
+      "dbas_articulados": [
+        "DBA 7: Utiliza el plano cartesiano para ubicar puntos y describir trayectorias y",
+        "DBA 5: Calcula áreas y volúmenes de figuras y cuerpos geométricos utilizando",
+        "DBA 4: Utiliza estrategias y herramientas para construir figuras planas y cuerpos"
+      ],
+      "actividades": [
+        "Geometría en",
+        "Arquitectos",
+        "Geometría en Movimiento",
+        "Arquitectos del Espacio"
+      ]
+    },
+    {
+      "grade": "9",
+      "grade_label": "9° de Secundaria",
+      "component_key": "aleatorio",
+      "component_name": "Pensamiento Aleatorio y Sistemas de Datos",
+      "icon": "📊",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 9° (Aleatorio).pdf",
+      "file_id": "10aHHG285UXHlFbeql9opWn12o0hzKSa4",
+      "drive_view_url": "https://drive.google.com/file/d/10aHHG285UXHlFbeql9opWn12o0hzKSa4/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=10aHHG285UXHlFbeql9opWn12o0hzKSa4",
+      "pages": 7,
+      "standard": "Comparo e interpreto datos provenientes de diversas fuentes.",
+      "dbas_articulados": [
+        "DBA 11: Compara y analiza conjuntos de datos utilizando medidas de tendencia",
+        "DBA 12: Predice y explica la probabilidad de ocurrencia de eventos simples y"
+      ],
+      "actividades": [
+        "El Duelo de",
+        "Casino",
+        "El Duelo de Datos",
+        "Casino Matemático"
+      ]
+    }
+  ],
+  "10": [
+    {
+      "grade": "10",
+      "grade_label": "10° Media Vocacional",
+      "component_key": "num_var",
+      "component_name": "Pensamiento Numérico - Variacional",
+      "icon": "🔢",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 10° (Numérico Variacional).pdf",
+      "file_id": "173zgJqX2sUvmdJWWa3yHsvLoCI_RGI3G",
+      "drive_view_url": "https://drive.google.com/file/d/173zgJqX2sUvmdJWWa3yHsvLoCI_RGI3G/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=173zgJqX2sUvmdJWWa3yHsvLoCI_RGI3G",
+      "pages": 7,
+      "standard": "Utilizo números reales en diferentes representaciones.",
+      "dbas_articulados": [
+        "DBA-MAT-9-1: Interpreta y utiliza números racionales y reales para resolver problemas de",
+        "DBA-MAT-9-8: Analiza, modela y comunica situaciones de covariación entre variables usando"
+      ],
+      "actividades": [
+        "El Universo de los",
+        "Modelando el",
+        "El Universo de los Números Reales",
+        "Modelando el Cambio"
+      ]
+    },
+    {
+      "grade": "10",
+      "grade_label": "10° Media Vocacional",
+      "component_key": "geom_met",
+      "component_name": "Pensamiento Espacial - Métrico",
+      "icon": "📐",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 10° (Espacial Métrico).pdf",
+      "file_id": "1Hu4r7DDPttPYlCgMZfveuzmmqILv-jkz",
+      "drive_view_url": "https://drive.google.com/file/d/1Hu4r7DDPttPYlCgMZfveuzmmqILv-jkz/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1Hu4r7DDPttPYlCgMZfveuzmmqILv-jkz",
+      "pages": 6,
+      "standard": "Identifico y describo figuras generadas por cortes.",
+      "dbas_articulados": [
+        "DBA-MAT-9-6: Analiza y utiliza propiedades de figuras para su clasificación y construcción",
+        "DBA-MAT-9-5: Calcula áreas y volúmenes de figuras y cuerpos geométricos utilizando"
+      ],
+      "actividades": [
+        "El Teorema de las",
+        "Arquitectura",
+        "El Teorema de las Sombras",
+        "Arquitectura Volumétrica"
+      ]
+    },
+    {
+      "grade": "10",
+      "grade_label": "10° Media Vocacional",
+      "component_key": "aleatorio",
+      "component_name": "Pensamiento Aleatorio y Sistemas de Datos",
+      "icon": "📊",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 10° (Aleatorio).pdf",
+      "file_id": "15gLKgwR3OzIrCMiVDgfBwr9kxhwfCPO0",
+      "drive_view_url": "https://drive.google.com/file/d/15gLKgwR3OzIrCMiVDgfBwr9kxhwfCPO0/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=15gLKgwR3OzIrCMiVDgfBwr9kxhwfCPO0",
+      "pages": 7,
+      "standard": "Comparo e interpreto datos provenientes de diversas fuentes.",
+      "dbas_articulados": [
+        "DBA-MAT-9-11: Compara y analiza conjuntos de datos utilizando medidas de tendencia central y",
+        "DBA-MAT-9-12: Predice y explica la probabilidad de ocurrencia de eventos simples y"
+      ],
+      "actividades": [
+        "El Analista de",
+        "El Laboratorio del",
+        "El Analista de Talentos Deportivos",
+        "El Laboratorio del Azar"
+      ]
+    }
+  ],
+  "11": [
+    {
+      "grade": "11",
+      "grade_label": "11° Media Vocacional",
+      "component_key": "num_var",
+      "component_name": "Pensamiento Numérico - Variacional",
+      "icon": "🔢",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 11° (Numérico Variacional).pdf",
+      "file_id": "1xwbMncoxYlsU8OB353q5EIHXszOik_si",
+      "drive_view_url": "https://drive.google.com/file/d/1xwbMncoxYlsU8OB353q5EIHXszOik_si/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1xwbMncoxYlsU8OB353q5EIHXszOik_si",
+      "pages": 7,
+      "standard": "Analizo y modelo situaciones de covariación entre variables usando funciones y",
+      "dbas_articulados": [
+        "DBA 1: Interpreta y utiliza números racionales, irracionales y reales en diferentes",
+        "DBA 8: Analiza y modela situaciones de covariación entre variables usando"
+      ],
+      "actividades": [
+        "El Universo",
+        "Modelando el",
+        "El Universo de los Reales",
+        "Modelando el Cambio"
+      ]
+    },
+    {
+      "grade": "11",
+      "grade_label": "11° Media Vocacional",
+      "component_key": "geom_met",
+      "component_name": "Pensamiento Espacial - Métrico",
+      "icon": "📐",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 11° (Espacial Métrico).pdf",
+      "file_id": "1YNSbrAqF6r8AhvcOroODEK660gxgVX1-",
+      "drive_view_url": "https://drive.google.com/file/d/1YNSbrAqF6r8AhvcOroODEK660gxgVX1-/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=1YNSbrAqF6r8AhvcOroODEK660gxgVX1-",
+      "pages": 6,
+      "standard": "Analizo y utilizo propiedades de figuras y cuerpos geométricos.",
+      "dbas_articulados": [
+        "DBA 5: Calcula áreas y volúmenes de figuras y cuerpos geométricos utilizando",
+        "DBA 6: Analiza y utiliza propiedades de figuras bidimensionales y"
+      ],
+      "actividades": [
+        "Ingenieros de",
+        "Navegantes",
+        "Ingenieros de Estructuras",
+        "Navegantes Trigonométricos"
+      ]
+    },
+    {
+      "grade": "11",
+      "grade_label": "11° Media Vocacional",
+      "component_key": "aleatorio",
+      "component_name": "Pensamiento Aleatorio y Sistemas de Datos",
+      "icon": "📊",
+      "pdf_title": "Plan de Mejoramiento - Matemáticas 11° (Aleatorio).pdf",
+      "file_id": "15JI2z1LGoyJEbvyurE-auq2ex9vFs4iW",
+      "drive_view_url": "https://drive.google.com/file/d/15JI2z1LGoyJEbvyurE-auq2ex9vFs4iW/view?usp=sharing",
+      "drive_download_url": "https://drive.google.com/uc?export=download&id=15JI2z1LGoyJEbvyurE-auq2ex9vFs4iW",
+      "pages": 7,
+      "standard": "Interpreto, produzco y comparo representaciones gráficas adecuadas para presentar",
+      "dbas_articulados": [
+        "DBA 10: Analiza, contrasta y comunica información estadística proveniente de",
+        "DBA 11: Compara y analiza conjuntos de datos utilizando medidas de tendencia",
+        "DBA 12: Predice la probabilidad de ocurrencia de eventos simples y compuestos"
+      ],
+      "actividades": [
+        "El Analista de",
+        "El Estratega",
+        "El Analista de Tendencias",
+        "El Estratega de Riesgos"
+      ]
+    }
+  ]
+}

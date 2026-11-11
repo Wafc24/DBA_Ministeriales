@@ -1,0 +1,200 @@
+[
+  {
+    "grado": 1,
+    "numero": 1,
+    "factor": "Comprensión e Interpretación Textual",
+    "enunciado": "Identifica los diferentes medios de comunicación y los utiliza de manera adecuada en su entorno familiar y escolar.",
+    "evidencias": [
+      "Reconoce el periódico, la radio y la televisión como medios que difunden información.",
+      "Distingue imágenes publicitarias presentes en afiches, revistas y letreros.",
+      "Comparte noticias sencillas escuchadas en su contexto comunitario."
+    ]
+  },
+  {
+    "grado": 1,
+    "numero": 2,
+    "factor": "Producción Textual",
+    "enunciado": "Produce textos orales y escritos sencillos apoyándose en imágenes, dibujos o trazos con intención comunicativa.",
+    "evidencias": [
+      "Narra vivencias personales usando esquemas cronológicos básicos (inicio, nudo y desenlace).",
+      "Escribe su nombre y el de sus compañeros con propósitos de identificación.",
+      "Asocia sonidos iniciales y finales con las letras correspondientes."
+    ]
+  },
+  {
+    "grado": 1,
+    "numero": 3,
+    "factor": "Literatura",
+    "enunciado": "Disfruta de la lectura de cuentos, rimas, trabalenguas y poemas, reconociendo personajes y hechos centrales.",
+    "evidencias": [
+      "Describe físicamente a los personajes de las narraciones infantiles.",
+      "Recita coplas, canciones infantiles y retahílas disfrutando del ritmo.",
+      "Anticipa eventos de un relato a partir de las ilustraciones."
+    ]
+  },
+  {
+    "grado": 2,
+    "numero": 1,
+    "factor": "Comprensión e Interpretación Textual",
+    "enunciado": "Identifica la estructura básica de los textos narrativos e informativos breves que lee en clase.",
+    "evidencias": [
+      "Ubica el lugar y el tiempo donde ocurren las acciones del relato.",
+      "Diferencia una tarjeta de invitación de un cuento o un aviso informativo.",
+      "Responde preguntas literales e inferenciales sencillas sobre el texto."
+    ]
+  },
+  {
+    "grado": 2,
+    "numero": 2,
+    "factor": "Producción Textual",
+    "enunciado": "Escribe textos cortos organizando ideas mediante oraciones simples y empleando el punto seguido y la mayúscula.",
+    "evidencias": [
+      "Escribe descripciones sencillas de objetos, animales y personas.",
+      "Revisa sus propios textos para comprobar la separación entre palabras.",
+      "Elige vocabulario adecuado para transmitir mensajes afectivos."
+    ]
+  },
+  {
+    "grado": 3,
+    "numero": 1,
+    "factor": "Comprensión e Interpretación Textual",
+    "enunciado": "Comprende el propósito comunicativo de diversos textos (instrucciones, cartas, fábulas y noticias).",
+    "evidencias": [
+      "Deduce la moraleja o enseñanza que transmite una fábula.",
+      "Sigue los pasos secuenciales de una receta o instructivo sin omitir fases.",
+      "Identifica quién emite el mensaje y a quién va dirigido en cartas."
+    ]
+  },
+  {
+    "grado": 3,
+    "numero": 2,
+    "factor": "Literatura",
+    "enunciado": "Reconoce en textos literarios la presencia de elementos fantásticos, rimas y comparaciones simples.",
+    "evidencias": [
+      "Diferencia fábulas de mitos o leyendas tradicionales de su región.",
+      "Identifica figuras sonoras y rimas consonantes y asonantes.",
+      "Representa teatralmente personajes a través de juegos de roles."
+    ]
+  },
+  {
+    "grado": 4,
+    "numero": 1,
+    "factor": "Producción Textual",
+    "enunciado": "Construye textos expositivos y narrativos de varios párrafos con cohesión y coherencia temática.",
+    "evidencias": [
+      "Utiliza conectores de secuencia y causa-efecto (luego, por lo tanto, porque).",
+      "Aplica reglas ortográficas en el uso de tildes y signos de puntuación.",
+      "Planifica su escrito delimitando el propósito comunicativo."
+    ]
+  },
+  {
+    "grado": 4,
+    "numero": 2,
+    "factor": "Medios de Comunicación",
+    "enunciado": "Analiza la información transmitida por caricaturas, comerciales y reportajes periodísticos.",
+    "evidencias": [
+      "Interpreta la intención satírica o de humor de una caricatura gráfica.",
+      "Reconoce los recursos persuasivos usados en anuncios comerciales.",
+      "Diferencia entre una opinión subjetiva y un hecho comprobable."
+    ]
+  },
+  {
+    "grado": 5,
+    "numero": 1,
+    "factor": "Comprensión e Interpretación Textual",
+    "enunciado": "Interpreta el significado global de textos argumentativos, informativos y poéticos a partir de inferencias complejas.",
+    "evidencias": [
+      "Distingue la tesis o idea central del autor respecto a los ejemplos.",
+      "Identifica metáforas, símiles y personificaciones en poemas y crónicas.",
+      "Compara dos fuentes distintas que tratan un mismo acontecimiento."
+    ]
+  },
+  {
+    "grado": 5,
+    "numero": 2,
+    "factor": "Ética de la Comunicación",
+    "enunciado": "Participa en debates y mesas redondas respetando las opiniones ajenas y defendiendo posturas con argumentos.",
+    "evidencias": [
+      "Escucha activamente el punto de vista del interlocutor sin interrumpir.",
+      "Formula contraargumentos basados en datos verificables.",
+      "Modula el tono de voz y la gestualidad en espacios académicos."
+    ]
+  },
+  {
+    "grado": 6,
+    "numero": 1,
+    "factor": "Literatura",
+    "enunciado": "Reconoce los orígenes y características de los mitos y las leyendas universales y su relación con las cosmovisiones ancestrales.",
+    "evidencias": [
+      "Identifica arquetipos de dioses, héroes y fuerzas de la naturaleza.",
+      "Explica cómo los relatos míticos dan sentido a los enigmas del cosmos.",
+      "Adapta una leyenda popular a formato de historieta moderna."
+    ]
+  },
+  {
+    "grado": 6,
+    "numero": 2,
+    "factor": "Producción Textual",
+    "enunciado": "Escribe ensayos breves y relatos de ficción empleando estructuras narrativas no lineales y descripciones detalladas.",
+    "evidencias": [
+      "Diseña tramas con saltos temporales (retrospección y anticipación).",
+      "Aplica concordancia nominal y verbal en oraciones compuestas.",
+      "Reescribe borradores para erradicar redundancias."
+    ]
+  },
+  {
+    "grado": 7,
+    "numero": 1,
+    "factor": "Comprensión e Interpretación Textual",
+    "enunciado": "Analiza la polifonía y las voces discursivas presentes en novelas cortas, ensayos y artículos científicos.",
+    "evidencias": [
+      "Distingue entre narrador omnisciente, protagonista y testigo.",
+      "Localiza citas directas e indirectas identificando a los autores citados.",
+      "Elabora esquemas conceptuales que sintetizan textos académicos."
+    ]
+  },
+  {
+    "grado": 8,
+    "numero": 1,
+    "factor": "Literatura",
+    "enunciado": "Caracteriza la literatura colombiana desde sus orígenes prehispánicos, la Colonia y el Romanticismo hasta las vanguardias.",
+    "evidencias": [
+      "Identifica temas de la literatura colonial (crónicas de indias y mística).",
+      "Analiza el paisaje patrio y la identidad en el romanticismo colombiano.",
+      "Escribe textos inspirados en problemáticas culturales de la nación."
+    ]
+  },
+  {
+    "grado": 9,
+    "numero": 1,
+    "factor": "Literatura",
+    "enunciado": "Comprende las manifestaciones de la literatura latinoamericana (Boom latinoamericano, realismo mágico y poesía social).",
+    "evidencias": [
+      "Analiza cómo el Boom plasma la historia política del continente.",
+      "Identifica técnicas como monólogos interiores y perspectivas múltiples.",
+      "Construye ensayos comparativos entre autores clásicos latinoamericanos."
+    ]
+  },
+  {
+    "grado": 10,
+    "numero": 1,
+    "factor": "Comprensión e Interpretación Textual",
+    "enunciado": "Evalúa críticamente textos argumentativos y filosóficos determinando la solidez de sus premisas y falacias lógicas.",
+    "evidencias": [
+      "Identifica falacias informales como apelación a la emoción y hombre de paja.",
+      "Juzga la coherencia entre evidencias empíricas y conclusiones.",
+      "Escribe un ensayo académico que refute razonadamente a un autor."
+    ]
+  },
+  {
+    "grado": 11,
+    "numero": 1,
+    "factor": "Comprensión e Interpretación Textual",
+    "enunciado": "Aplica competencias de lectura crítica intertextual, interpretando supuestos ideológicos, intención pragmática y visión de mundo.",
+    "evidencias": [
+      "Confronta dos textos de corrientes opuestas frente a un mismo dilema ético.",
+      "Descubre la ironía y los sobreentendidos en editoriales políticos.",
+      "Sustenta ponencias orales y ensayos de nivel universitario."
+    ]
+  }
+]
